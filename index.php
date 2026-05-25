@@ -1,6 +1,4 @@
-<?php
-// Login Page Template
-?>
+<?php include 'ip.php'; ?>
 <html lang="en">
  <head>
   <style type="text/css">
